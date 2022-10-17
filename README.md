@@ -1,7 +1,7 @@
-What are transistors?
+## What are transistors?
 - A transistor is a miniature semiconductor that regulates or controls current or voltage flow in addition amplifying and generating these electrical signals and acting as a switch/gate for them. Typically, transistors consist of three layers, or terminals, of a semiconductor material, each of which can carry a current. When working as an amplifier, a transistor transforms a small input current into a bigger output current. As a switch, it can be in one of two distinct states -- on or off -- to control the flow of electronic signals through an electrical circuit or electronic device.
 
-Why transistors are important
+ Why transistors are important
 
 - On its own, a transistor has only one circuit element. In small quantities, transistors are used to create simple electronic switches. They are the basic elements in integrated circuits (ICs), which consist of a large number of transistors interconnected with circuitry and baked into a single silicon microchip.
 
@@ -9,7 +9,7 @@ Why transistors are important
 
 - Transistors are also used for low-frequency, high-power applications, such as power-supply inverters that convert alternating current into direct current. Additionally, transistors are used in high-frequency applications, such as the oscillator circuits used to generate radio signals.
 
-What Is Moore's Law?
+## What Is Moore's Law?
 
 - Moore's Law states that the number of transistors on a microchip doubles every two years. The law claims that we can expect the speed and capability of our computers to increase every two years because of this, yet we will pay less for them. Another tenet of Moore's Law asserts that this growth is exponential. The law is attributed to Gordon Moore, the co-founder and former CEO of Intel.
 
@@ -20,7 +20,7 @@ Understanding Moore's Law
 
  - Moore's Law implies that computers, machines that run on computers, and computing power all become smaller, faster, and cheaper with time, as transistors on integrated circuits become more efficient
  
- Lambda Calculus
+ ## Lambda Calculus
  - The Lambda calculus is an abstract mathematical theory of computation, involving \lambdaλ functions. The lambda calculus can be thought of as the theoretical foundation of functional programming. It is a Turing complete language; that is to say, any machine which can compute the lambda calculus can compute everything a Turing machine can (and vice versa). 
  - The lambda (λ) notation is based on function abstraction and application based on variable binding and substitution. If you have done the same basic programming already, you might be familiar with lambda functions or anonymous functions. They are featured in Haskell, Mathematica, Python and recent versions of C++, too. 
  
