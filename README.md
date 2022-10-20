@@ -1,7 +1,7 @@
 ## What Are Transistors?
 - A transistor is a miniature semiconductor that regulates or controls current or voltage flow in addition amplifying and generating these electrical signals and acting as a switch/gate for them. Typically, transistors consist of three layers, or terminals, of a semiconductor material, each of which can carry a current. When working as an amplifier, a transistor transforms a small input current into a bigger output current. As a switch, it can be in one of two distinct states -- on or off -- to control the flow of electronic signals through an electrical circuit or electronic device.
 
- Why transistors are important
+ ### Why transistors are important
 
 - On its own, a transistor has only one circuit element. In small quantities, transistors are used to create simple electronic switches. They are the basic elements in integrated circuits (ICs), which consist of a large number of transistors interconnected with circuitry and baked into a single silicon microchip.
 
