@@ -49,7 +49,7 @@ What is HTTPS?
 - HTTPS stands for Hyper Text Transfer Protocol Secure. It is highly advanced and secure version of HTTP. It uses the port no. 443 for Data Communication. It allows the secure transactions by encrypting the entire communication with SSL(Secure Sockets Layer). It is a combination of SSL/TLS protocol and HTTP. It provides encrypted and secure identification of a network server.
 
 - HTTP also allows you to create a secure encrypted connection between the server and the browser. It offers the bi-directional security of Data. This helps you to protect potentially sensitive information from being stolen. In HTTPS protocol SSL(Secure Sockets Layer) transactions are negotiated with the help of key-based encryption algorithm. This key is generally either 40 or 128 bits in strength.
- ## Key Difference Between HTTP and HTTPS
+ #### Key Difference Between HTTP and HTTPS
 - HTTP lacks a security mechanism to encrypt the data, whereas HTTPS provides SSL(Secure Sockets Layer) or TLS(Transport Layer Security Digital Certificate to secure the communication between server and client.
 - HTTP operates at the Application Layer, whereas HTTPS operates at Transport Layer.
 - HTTP by default operates on port 80, whereas HTTPS by default operates on port 443.
