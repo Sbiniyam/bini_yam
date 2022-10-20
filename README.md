@@ -13,7 +13,7 @@
 
 - Moore's Law states that the number of transistors on a microchip doubles every two years. The law claims that we can expect the speed and capability of our computers to increase every two years because of this, yet we will pay less for them. Another tenet of Moore's Law asserts that this growth is exponential. The law is attributed to Gordon Moore, the co-founder and former CEO of Intel.
 
-Understanding Moore's Law
+### Understanding Moore's Law
    - Gordon Moore did not call his observation "Moore's Law," nor did he set out to create a "law." Moore made that statement based on noticing emerging trends in chip manufacturing at Fairchild Semiconductor. Eventually, Moore's insight became a prediction, which in turn became the golden rule known as Moore's Law.
 
 - In the decades that followed Gordon Moore's original observation, Moore's Law guided the semiconductor industry in long-term planning and setting targets for research and development (R&D). Moore's Law has been a driving force of technological and social change, productivity, and economic growth that are hallmarks of the late 20th and early 21st centuries.
@@ -28,7 +28,7 @@ Understanding Moore's Law
  
  - A computer is an electronic machine that processes information—in other words, an information processor: it takes in raw information (or data) at one end, stores it until it's ready to work on it, chews and crunches it for a bit, then spits out the results at the other end. All these processes have a name. Taking in information is called input, storing information is better known as memory (or storage), chewing information is also known as processing, and spitting out results is called output.
  
-  How does a computers operate 
+  ## How does a computers operate 
   
   - A computer works by combining input, storage, processing, and output. All the main parts of a computer system are involved in one of these four processes.
   - Input: Your keyboard and mouse, for example, are just input units—ways of getting information into your computer that it can process. If you use a microphone and voice recognition software, that's another form of input.
@@ -44,7 +44,7 @@ Understanding Moore's Law
 
 - HTTP is an application layer network protocol which is built on top of TCP. HTTP uses Hypertext structured text which establishes the logical link between nodes containing text. It is also known as “stateless protocol” as each command is executed separately, without using reference of previous run command.
 
-### What is HTTPS?
+#### What is HTTPS?
 
 - HTTPS stands for Hyper Text Transfer Protocol Secure. It is highly advanced and secure version of HTTP. It uses the port no. 443 for Data Communication. It allows the secure transactions by encrypting the entire communication with SSL(Secure Sockets Layer). It is a combination of SSL/TLS protocol and HTTP. It provides encrypted and secure identification of a network server.
 
