@@ -71,6 +71,26 @@ WHY DO SITES NEED TO USE TLS/SSL CERTIFICATES?
 - TLS/SSL certificates are the standard by all major web browsers to ensure a safer internet experience for users. Websites secured by TLS/SSL certificates are more trusted by internet users because they encrypt and protect private information transferred to and from their website. They also represent, or certify, your website’s brand identity. In that sense, TLS/SSL certificates are both an identity protection measure for online brands, and a security measure for companies transmitting private data online.
  ## How is the IP address distributed based on the countries? 
  IPv4 addresses are handed out by the IANA to the regional registries RIPE (Europe) APNIC (Asia +Pacific), AFRINIC (Africa),LANIC (Latin America), ARIN( North America). They then hand it out in smaller blocks to ISP’s in their region. A multinational ISP then might use these blocks in multiple countries and multiple continents even.
+## Dynamic Host Configuration Protocol (DHCP)
+- Dynamic Host Configuration Protocol (DHCP) is a client/server protocol that automatically provides an Internet Protocol (IP) host with its IP address and other related configuration information such as the subnet mask and default gateway. RFCs 2131 and 2132 define DHCP as an Internet Engineering Task Force (IETF) standard based on Bootstrap Protocol (BOOTP), a protocol with which DHCP shares many implementation details. DHCP allows hosts to obtain required TCP/IP configuration information from a DHCP server.
+## Firewall
+- A firewall is a network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules.
 
+- Firewalls have been a first line of defense in network security for over 25 years. They establish a barrier between secured and controlled internal networks that can be trusted and untrusted outside networks, such as the Internet. 
 
+- A firewall can be hardware, software, software-as-a service (SaaS), public cloud, or private cloud (virtual).
+#### Different Types Of Firewalls 
+- ***Proxy firewall***: An early type of firewall device, a proxy firewall serves as the gateway from one network to another for a specific application. Proxy servers can provide additional functionality such as content caching and security by preventing direct connections from outside the network. However, this also may impact throughput capabilities and the applications they can support.
+- ***Stateful inspection firewall***: Now thought of as a “traditional” firewall, a stateful inspection firewall allows or blocks traffic based on state, port, and protocol. It monitors all activity from the opening of a connection until it is closed. Filtering decisions are made based on both administrator-defined rules as well as context, which refers to using information from previous connections and packets belonging to the same connection.
+- ***Unified threat management (UTM) firewall***: A UTM device typically combines, in a loosely coupled way, the functions of a stateful inspection firewall with intrusion prevention and antivirus. It may also include additional services and often cloud management. UTMs focus on simplicity and ease of use.
+***Next-generation firewall (NGFW)***: Firewalls have evolved beyond simple packet filtering and stateful inspection. Most companies are deploying next-generation firewalls to block modern threats such as advanced malware and application-layer attacks.
+- ***Threat-focused NGFW***: These firewalls include all the capabilities of a traditional NGFW and also provide advanced threat detection and remediation.
+- ***Virtual firewall***: A virtual firewall is typically deployed as a virtual appliance in a private cloud (VMware ESXi, Microsoft Hyper-V, KVM) or public cloud (Amazon Web Services or AWS, Microsoft Azure, Google Cloud Platform or GCP, Oracle Cloud Infrastructure or OCI) to monitor and secure traffic across physical and virtual networks. A virtual firewall is often a key component in software-defined networks (SDN).
+- ***Cloud Native Firewall***: Cloud native firewalls are modernizing the way to secure applications and workload infrastructure at scale. With automated scaling features, cloud native firewalls enable networking operations and security operations teams to run at agile speeds.
+## The Open Systems Interconnection (OSI) model
 
+- The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network. It was the first standard model for network communications, adopted by all major computer and telecommunication companies in the early 1980s
+
+- The modern Internet is not based on OSI, but on the simpler TCP/IP model. However, the OSI 7-layer model is still widely used, as it helps visualize and communicate how networks operate, and helps isolate and troubleshoot networking problems.
+
+- OSI was introduced in 1983 by representatives of the major computer and telecom companies, and was adopted by ISO as an international standard in 1984.
